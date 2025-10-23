@@ -3,7 +3,7 @@ A simple game to help understanding of Blockchain
 
 # 🧱 Blockchain Simulation Game
 
-A visual, interactive simulation that demonstrates how blockchain works — built with Python and Tkinter. This educational tool models wallet creation, peer-to-peer transactions, SYSTEM rewards, and block mining, all within a scrollable and zoomable GUI.
+A visual, interactive simulation that demonstrates how blockchain works — built with Python and Tkinter. 
 
 ## 🎯 Purpose
 
