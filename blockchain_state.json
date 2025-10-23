@@ -1,0 +1,61 @@
+{
+  "wallets": [
+    {
+      "name": "alice",
+      "balance": 1150,
+      "address": "2bd806c97f0e00af1a1fc3328fa763a9269723c8db8fac4f93af71db186d6e90"
+    },
+    {
+      "name": "bob",
+      "balance": 950,
+      "address": "81b637d8fcd2c6da6359e6963113a1170de795e4b725b84d1e0b4cfd9ec58ce9"
+    },
+    {
+      "name": "ken",
+      "balance": 1200,
+      "address": "78e0b1fdb55ecbc60a8da0168ce87daa0e7ba2b44ffa0cf61a8f0a6c5b423d7a"
+    },
+    {
+      "name": "smith",
+      "balance": 950,
+      "address": "6627835f988e2c5e50533d491163072d3f4f41f5c8b04630150debb3722ca2dd"
+    }
+  ],
+  "transactions": [
+    {
+      "sender": "78e0b1fdb55ecbc60a8da0168ce87daa0e7ba2b44ffa0cf61a8f0a6c5b423d7a",
+      "receiver": "2bd806c97f0e00af1a1fc3328fa763a9269723c8db8fac4f93af71db186d6e90",
+      "amount": 100,
+      "timestamp": 1761214943.1564152,
+      "signature": "03865b17275cb0a672199a9961c17cfdf9178a87e4f5d779a959ba1d763e5402"
+    },
+    {
+      "sender": "SYSTEM",
+      "receiver": "78e0b1fdb55ecbc60a8da0168ce87daa0e7ba2b44ffa0cf61a8f0a6c5b423d7a",
+      "amount": 50,
+      "timestamp": 1761214967.5320973,
+      "signature": "32baa0f8e1b609ac7aca3c798a4cb260f38374423d255cc8c009e41bbecdec3c"
+    },
+    {
+      "sender": "81b637d8fcd2c6da6359e6963113a1170de795e4b725b84d1e0b4cfd9ec58ce9",
+      "receiver": "6627835f988e2c5e50533d491163072d3f4f41f5c8b04630150debb3722ca2dd",
+      "amount": 100,
+      "timestamp": 1761215003.4741423,
+      "signature": "7969fa675dfc3dbe97378c47d8621c1cb64b37595b80ab960b9a946f7412ec4e"
+    },
+    {
+      "sender": "6627835f988e2c5e50533d491163072d3f4f41f5c8b04630150debb3722ca2dd",
+      "receiver": "d621c1a7169f2ca51bc8674da52e9572178a66a1dde88da24da78fe4951703f9",
+      "amount": 50,
+      "timestamp": 1761224083.5097733,
+      "signature": "d26c2bc24f614c06692d1b79f735e5f379eebc44212271a9fded730a646a1a35"
+    },
+    {
+      "sender": "2bd806c97f0e00af1a1fc3328fa763a9269723c8db8fac4f93af71db186d6e90",
+      "receiver": "81b637d8fcd2c6da6359e6963113a1170de795e4b725b84d1e0b4cfd9ec58ce9",
+      "amount": 50,
+      "timestamp": 1761224210.7031078,
+      "signature": "d25bcd1522fdef7d5377b6eb61827aa2efffa7cec50981a6412d455a6e3f47ac"
+    }
+  ]
+}
