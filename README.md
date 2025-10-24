@@ -34,3 +34,6 @@ python blockchain.py
 
 ## 🚀 Examples
 see screenshoots in examples
+
+## License
+MIT License
